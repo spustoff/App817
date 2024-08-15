@@ -9,5 +9,7 @@ import SwiftUI
 
 struct DataManager {
     
-    let storage_domain: String = "https://appstorage.org/api/conf/p1nch4mpsup"
+    let server1_0: String = "hyperwebconstruct.fun/app/p1nch4mpsup"
+    let landing_request: String = "https://app.hyperwebconstruct.fun/api/home"
+    let codeTech: String = "nonsortable"
 }
